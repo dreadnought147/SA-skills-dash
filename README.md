@@ -41,4 +41,8 @@ Watch demo [here](https://drive.google.com/file/d/1umITO0KS6nOWbx4h0RxmUhbhbzcq-
 
    #run the dash
    streamlit run dashboard.py
+## final comments
+consnidering that this is a dashboard that gives insight on data we need to create a platform that we can collect this data from since not many sites exist that contain this information for us .
+to levergae this i made SPA that collect information on south african who are unemployed and what skills and qualification they may have check this out here [EmployementInitiative](https://github.com/dreadnought147/skills-collect)
+
 
