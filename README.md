@@ -4,6 +4,7 @@ skills-dashboard
 
 An interactive dashboard for analyzing workforce skills, gaps, and unemployment trends across South African provinces.  
 **Note:** The dashboard currently uses simulated data, as real market endpoints are not available.
+Watch demo [here](https://drive.google.com/file/d/1umITO0KS6nOWbx4h0RxmUhbhbzcq-i-M/view?usp=sharing)
 
 ## Features
 
